@@ -5,9 +5,12 @@ This is an Example Repo on How to use Pyth Network with Anchor.
 ## To run and test this repo
 
 Switch to devnet
-anchor build
-anchor deploy
-anchor run test
+
+`anchor build`
+
+`anchor deploy`
+
+`anchor run test`
 
 After the test cases passes you will get a tx id which you can explore in the block explorer and check the logs to see if the data you got is right or not.
 
