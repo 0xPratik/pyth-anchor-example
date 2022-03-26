@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.devnet]
-pyth_test = "B8Qq8KxxLAjFzgBLmJcJ8nfQw5WHugw1ZhCPFabqyb8u"
+pyth_test = "6B7XgKFmo73geJY8ZboSpLhkTumvwXeCXBpeP7nCT35w"
 
 [registry]
 url = "https://anchor.projectserum.com"
